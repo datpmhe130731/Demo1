@@ -13,6 +13,7 @@ namespace _4_Winf_DataGridView_Q1
 {
     public partial class MemberListForm : Form
     {
+        string demo1 = "new demo";
         MemberDAO dao = new MemberDAO();
         public MemberListForm()
         {
